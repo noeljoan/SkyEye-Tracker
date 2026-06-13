@@ -1,0 +1,26 @@
+# --- Python & KI Caches ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Große KI-Modelle (Nicht auf GitHub hochladen!) ---
+# Die Modelle (.pt oder .onnx) sind zu groß für GitHub.
+# Nutzer sollen sie beim ersten Start automatisch herunterladen lassen.
+*.pt
+*.onnx
+weights/
+
+# --- Arduino & PlatformIO ---
+# Temporäre Build-Ordner der Arduino IDE ausblenden
+build/
+bin/
+.local/
+.vscode/
+
+# --- Betriebssystem-Müll ---
+# Verhindert, dass Reste vom Raspberry Pi oder Windows hochgeladen werden
+.DS_Store
+Thumbs.db
+.directory
