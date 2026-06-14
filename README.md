@@ -1,7 +1,7 @@
 # 🌌 SkyEye-Tracker
 > **KI-gestütztes Edge-AI System zur autonomen Luftraumüberwachung und visuellen Objektnachführung.**
 
-[![License: MIT](https://shields.io)](https://opensource.org)
+[![License: MIT](LICENSE)
 [![Platform: Raspberry Pi 5](https://shields.io)](https://raspberrypi.com)
 [![Framework: YOLOv8](https://shields.io)](https://github.com)
 
