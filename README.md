@@ -85,3 +85,5 @@ python3 export.py
 ## ⚠️ Disclaimer / Rechtlicher Hinweis
 
 Dieses Projekt ist eine reine Software- und Elektronik-Demonstration zur zivilen, optischen Objektnachführung (Kamera-Tracking), Wildtierbeobachtung und Luftraumforschung. Es enthält keinerlei Schnittstellen, Steuerungen oder Funktionen für mechanische Einwirkungen, Projektile, Waffen oder aktive Signalstörungen (Jamming). Die Nutzung des Codes erfolgt ausschließlich im Rahmen der gesetzlichen Bestimmungen für zivile Bildverarbeitung und Sensorik. Autoren und Mitwirkende übernehmen keine Haftung für Missbrauch.
+
+Dieses Projekt steht unter der MIT-Lizenz – siehe [LICENSE](LICENSE) Datei für Details.
